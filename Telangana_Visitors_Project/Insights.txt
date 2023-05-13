@@ -1,0 +1,35 @@
+Top 10 District>>>>>>>>>>>>>>>>>>>>
+
+Domestic Visitor Insights:
+
+Total_visitors_domestic: 35,63,41,649
+Top 4 district: Hyderabad (83900960), Rajanna Sircilla (41763276), Warangal (Urban) (30726603), Yadadri Bhongir (26893080)
+
+Most Visited month in Hyderabad is June
+least visited month in Hyderabad is February
+
+Foreign Visitor Insights:
+
+Total_visitors_domestic: 10,59,896
+Top 4 district: Hyderabad (1044898), Warangal (Urban) (8821), Mahbubnagar (2282), Jayashankar Bhoopalpally (1252)
+
+Most Visited month in Hyderabad is December
+least visited month in Hyderabad is April and May
+
+Projected Visitors in Hyerabad in 2025:
+
+Domestic: 5.67M
+Foreign: 1.32M
+
+The number of domestic visitors showed a significant decline from 2017 to 2019, dropping from 27.2 million to 13.8 million, indicating a downward trend in domestic tourism during this period. KPIs shows that domestic visitors is decreasing 58.91% 
+
+Between 2016 and 2019, the number of foreign visitors saw a notable rise, increasing from 163,631 to 319,300. These figures indicate a positive trend in international tourism during this period. KPIs shows that foreign visitors is increasing 312.5% 
+
+Suggestions:
+
+To increase Tourist visits we can do following things:
+
+Revamp heritage sites: Karimnagar and Warangal have a rich cultural and historical legacy, with ancient forts, temples, and monuments. Revamping and promoting these heritage sites can attract history buffs and architecture enthusiasts
+Promote local cuisine and cultures: cultures festivals like Bathukamma. 
+New openings for IT industries: Karimnagar and Warnagal are IT Hub.
+
